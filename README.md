@@ -7,4 +7,9 @@
 
 
 # Template Syntax
-- 
+
+ ## incomprensioni 
+    - disabled
+    - Dynamic Argument Value Constraints 
+    - Dynamic Argument Syntax Constraints 
+    - Modifiers 
